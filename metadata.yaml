@@ -1,6 +1,6 @@
 name: astrbot_plugin_bilipic # 这是你的插件的唯一识别名。
 desc: 发送BV号获取哔站视频封面图
 help: 发送BV号获取哔站视频封面图
-version: v1.0 # 插件的版本号
+version: v1.1 # 插件的版本号
 author: mingrixiangnai # 作者
 repo: https://github.com/mingrixiangnai/bilipic # 插件的仓库地址
