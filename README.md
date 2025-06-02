@@ -1,3 +1,5 @@
+# 主站https://nn0721.icu
+
 # AstrBot 发送BV号获取哔站视频封面图
 
 ## 简介
